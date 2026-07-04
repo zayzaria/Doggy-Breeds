@@ -7,7 +7,15 @@ from datetime import datetime
 def get_breeds_list():
     """Get all main breeds from Dog CEO API"""
     url = "https://dog.ceo/api/breeds/list/all"
-    response = requests.get(url, timeout=10)
+    response = requests.get(url, timeout=15)
+    
+    print(f"Breeds list status code: {response.status_code}")
+    
+    if response.status_code != 200:
+        print("ERROR: Failed to get breeds list")
+        print("Response text:", response.text[:500])  # Print first 500 chars for debugging
+        raise Exception("Failed to fetch breeds from Dog CEO API")
+    
     data = response.json()
     breeds = list(data["message"].keys())
     return breeds
@@ -15,12 +23,19 @@ def get_breeds_list():
 def get_random_image(breed):
     """Get a random image for a specific breed"""
     url = f"https://dog.ceo/api/breed/{breed}/images/random"
-    response = requests.get(url, timeout=10)
+    response = requests.get(url, timeout=15)
+    
+    if response.status_code != 200:
+        print(f"ERROR getting image for {breed}")
+        print("Response:", response.text[:300])
+        raise Exception("Failed to get image")
+    
     return response.json()["message"]
 
 def get_breed_details(breed_name, api_key):
     """Get detailed info from The Dog API"""
     if not api_key:
+        print("No THEDOGAPI_KEY found - skipping detailed stats")
         return None
     
     headers = {"x-api-key": api_key}
@@ -28,7 +43,7 @@ def get_breed_details(breed_name, api_key):
     url = f"https://api.thedogapi.com/v1/breeds/search?q={search_name}"
     
     try:
-        response = requests.get(url, headers=headers, timeout=10)
+        response = requests.get(url, headers=headers, timeout=15)
         if response.status_code == 200 and response.json():
             breed = response.json()[0]
             return {
@@ -70,4 +85,4 @@ if __name__ == "__main__":
     with open("daily_breed.json", "w", encoding="utf-8") as f:
         json.dump(daily_data, f, indent=2, ensure_ascii=False)
     
-    print(f"✅ Updated daily breed to: {breed_display}")
+    print(f"✅ Successfully updated daily breed to: {breed_display}")
