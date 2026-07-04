@@ -1,0 +1,34 @@
+name: Update Daily Dog Breed
+
+on:
+  schedule:
+    - cron: "0 12 * * *"   # Runs every day at 12:00 UTC
+  workflow_dispatch:       # Allows you to run it manually
+
+jobs:
+  update-breed:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run daily breed script
+        env:
+          THEDOGAPI_KEY: ${{ secrets.THEDOGAPI_KEY }}
+        run: python scripts/fetch_daily_breed.py
+
+      - name: Commit and push updated daily_breed.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add daily_breed.json
+          git commit -m "🐶 Update Dog Breed of the Day ($(date +%Y-%m-%d))" || exit 0
+          git push
