@@ -1,19 +1,19 @@
 {
-  "date": "2026-07-04",
-  "breed": "Staffordshire Bull Terrier",
+  "date": "2026-07-05",
+  "breed": "Danish-Swedish Farmdog",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Staffordshire Bull Terrier! Courageous, intelligent, affectionate, loyal, confident, energetic",
+  "synopsis": "A beautiful Danish-Swedish Farmdog! Alert, friendly, energetic, intelligent, adaptable, eager to please",
   "stats": {
-    "name": "Staffordshire Bull Terrier",
-    "temperament": "Courageous, intelligent, affectionate, loyal, confident, energetic",
-    "life_span": "12-14",
+    "name": "Danish-Swedish Farmdog",
+    "temperament": "Alert, friendly, energetic, intelligent, adaptable, eager to please",
+    "life_span": "11-15",
     "weight": {
-      "imperial": "Male: 28-38; Female: 24-34",
-      "metric": "Male: 13-17; Female: 11-15"
+      "imperial": "15-25",
+      "metric": "7-11"
     },
     "height": {
-      "imperial": "14-16",
-      "metric": "36-41"
+      "imperial": "Male: 12.5-15; Female: 11.5-14.5",
+      "metric": "Male: 32-38; Female: 29-37"
     }
   }
 }
