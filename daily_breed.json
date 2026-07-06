@@ -1,19 +1,19 @@
 {
-  "date": "2026-07-05",
-  "breed": "Danish-Swedish Farmdog",
+  "date": "2026-07-06",
+  "breed": "Australian Shepherd",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Danish-Swedish Farmdog! Alert, friendly, energetic, intelligent, adaptable, eager to please",
+  "synopsis": "A beautiful Australian Shepherd! Intelligent, energetic, work-focused, loyal, devoted, athletic",
   "stats": {
-    "name": "Danish-Swedish Farmdog",
-    "temperament": "Alert, friendly, energetic, intelligent, adaptable, eager to please",
-    "life_span": "11-15",
+    "name": "Australian Shepherd",
+    "temperament": "Intelligent, energetic, work-focused, loyal, devoted, athletic",
+    "life_span": "12-15",
     "weight": {
-      "imperial": "15-25",
-      "metric": "7-11"
+      "imperial": "Male: 50-65; Female: 40-55",
+      "metric": "Male: 23-29; Female: 18-25"
     },
     "height": {
-      "imperial": "Male: 12.5-15; Female: 11.5-14.5",
-      "metric": "Male: 32-38; Female: 29-37"
+      "imperial": "Male: 20-23; Female: 18-21",
+      "metric": "Male: 51-58; Female: 46-53"
     }
   }
 }
