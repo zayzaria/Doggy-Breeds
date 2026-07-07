@@ -1,19 +1,19 @@
 {
-  "date": "2026-07-06",
-  "breed": "Australian Shepherd",
+  "date": "2026-07-07",
+  "breed": "American Pit Bull Terrier",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Australian Shepherd! Intelligent, energetic, work-focused, loyal, devoted, athletic",
+  "synopsis": "A beautiful American Pit Bull Terrier! Confident, intelligent, loyal, affectionate, eager to please, energetic",
   "stats": {
-    "name": "Australian Shepherd",
-    "temperament": "Intelligent, energetic, work-focused, loyal, devoted, athletic",
-    "life_span": "12-15",
+    "name": "American Pit Bull Terrier",
+    "temperament": "Confident, intelligent, loyal, affectionate, eager to please, energetic",
+    "life_span": "12-16",
     "weight": {
-      "imperial": "Male: 50-65; Female: 40-55",
-      "metric": "Male: 23-29; Female: 18-25"
+      "imperial": "Male: 35-60; Female: 30-50",
+      "metric": "Male: 16-27; Female: 14-23"
     },
     "height": {
-      "imperial": "Male: 20-23; Female: 18-21",
-      "metric": "Male: 51-58; Female: 46-53"
+      "imperial": "Male: 18-21; Female: 17-20",
+      "metric": "Male: 46-53; Female: 43-51"
     }
   }
 }
