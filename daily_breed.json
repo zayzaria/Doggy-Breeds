@@ -1,19 +1,19 @@
 {
-  "date": "2026-07-08",
-  "breed": "King Shepherd",
+  "date": "2026-07-09",
+  "breed": "Denmark Feist",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful King Shepherd! Intelligent, loyal, confident, protective, gentle, courageous",
+  "synopsis": "A beautiful Denmark Feist! Energetic, alert, intelligent, courageous, loyal",
   "stats": {
-    "name": "King Shepherd",
-    "temperament": "Intelligent, loyal, confident, protective, gentle, courageous",
-    "life_span": "10-11",
+    "name": "Denmark Feist",
+    "temperament": "Energetic, alert, intelligent, courageous, loyal",
+    "life_span": "12-18",
     "weight": {
-      "imperial": "Male: 90-150; Female: 75-110",
-      "metric": "Male: 41-68; Female: 34-50"
+      "imperial": "Male: 20-35; Female: 15-25",
+      "metric": "Male: 9-16; Female: 7-11"
     },
     "height": {
-      "imperial": "Male: 27-31; Female: 25-27",
-      "metric": "Male: 69-79; Female: 64-69"
+      "imperial": "15-18",
+      "metric": "38-46"
     }
   }
 }
