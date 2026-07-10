@@ -1,19 +1,19 @@
 {
-  "date": "2026-07-09",
-  "breed": "Denmark Feist",
+  "date": "2026-07-10",
+  "breed": "Finnish Spitz",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Denmark Feist! Energetic, alert, intelligent, courageous, loyal",
+  "synopsis": "A beautiful Finnish Spitz! Friendly, alert, intelligent, independent, playful, courageous",
   "stats": {
-    "name": "Denmark Feist",
-    "temperament": "Energetic, alert, intelligent, courageous, loyal",
-    "life_span": "12-18",
+    "name": "Finnish Spitz",
+    "temperament": "Friendly, alert, intelligent, independent, playful, courageous",
+    "life_span": "12-15",
     "weight": {
-      "imperial": "Male: 20-35; Female: 15-25",
-      "metric": "Male: 9-16; Female: 7-11"
+      "imperial": "Male: 25-33; Female: 20-28",
+      "metric": "Male: 11-15; Female: 9-13"
     },
     "height": {
-      "imperial": "15-18",
-      "metric": "38-46"
+      "imperial": "Male: 17.5-20; Female: 15.5-18",
+      "metric": "Male: 44.5-51; Female: 39-46"
     }
   }
 }
