@@ -1,19 +1,19 @@
 {
-  "date": "2026-07-10",
-  "breed": "Finnish Spitz",
+  "date": "2026-07-11",
+  "breed": "Jack Russell Terrier",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Finnish Spitz! Friendly, alert, intelligent, independent, playful, courageous",
+  "synopsis": "A beautiful Jack Russell Terrier! Energetic, intelligent, alert, courageous, confident, playful",
   "stats": {
-    "name": "Finnish Spitz",
-    "temperament": "Friendly, alert, intelligent, independent, playful, courageous",
-    "life_span": "12-15",
+    "name": "Jack Russell Terrier",
+    "temperament": "Energetic, intelligent, alert, courageous, confident, playful",
+    "life_span": "12-14",
     "weight": {
-      "imperial": "Male: 25-33; Female: 20-28",
-      "metric": "Male: 11-15; Female: 9-13"
+      "imperial": "13-17",
+      "metric": "6-8"
     },
     "height": {
-      "imperial": "Male: 17.5-20; Female: 15.5-18",
-      "metric": "Male: 44.5-51; Female: 39-46"
+      "imperial": "10-12",
+      "metric": "25-30"
     }
   }
 }
