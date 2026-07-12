@@ -1,19 +1,19 @@
 {
-  "date": "2026-07-11",
-  "breed": "Jack Russell Terrier",
+  "date": "2026-07-12",
+  "breed": "Australian Terrier",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Jack Russell Terrier! Energetic, intelligent, alert, courageous, confident, playful",
+  "synopsis": "A beautiful Australian Terrier! Courageous, alert, friendly, loyal, intelligent",
   "stats": {
-    "name": "Jack Russell Terrier",
-    "temperament": "Energetic, intelligent, alert, courageous, confident, playful",
-    "life_span": "12-14",
+    "name": "Australian Terrier",
+    "temperament": "Courageous, alert, friendly, loyal, intelligent",
+    "life_span": "11-15",
     "weight": {
-      "imperial": "13-17",
-      "metric": "6-8"
+      "imperial": "15-20",
+      "metric": "7-9"
     },
     "height": {
-      "imperial": "10-12",
-      "metric": "25-30"
+      "imperial": "10-11",
+      "metric": "25-28"
     }
   }
 }
