@@ -1,19 +1,19 @@
 {
-  "date": "2026-07-13",
-  "breed": "Golden Retriever",
+  "date": "2026-07-14",
+  "breed": "Ryukyu",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Golden Retriever! Friendly, intelligent, devoted, confident, loyal, eager to please",
+  "synopsis": "A beautiful Ryukyu! Loyal, intelligent, independent, courageous, alert, energetic",
   "stats": {
-    "name": "Golden Retriever",
-    "temperament": "Friendly, intelligent, devoted, confident, loyal, eager to please",
-    "life_span": "10-12",
+    "name": "Ryukyu",
+    "temperament": "Loyal, intelligent, independent, courageous, alert, energetic",
+    "life_span": "12-14",
     "weight": {
-      "imperial": "Male: 65-75; Female: 55-65",
-      "metric": "Male: 29-34; Female: 25-29"
+      "imperial": "Male: 33-44; Female: 26-39",
+      "metric": "Male: 15-20; Female: 12-18"
     },
     "height": {
-      "imperial": "Male: 23-24; Female: 21.5-22.5",
-      "metric": "Male: 58-61; Female: 55-57"
+      "imperial": "Male: 18-20.5; Female: 17-19.5",
+      "metric": "Male: 46-52; Female: 43-49"
     }
   }
 }
