@@ -1,19 +1,19 @@
 {
-  "date": "2026-07-14",
-  "breed": "Ryukyu",
+  "date": "2026-07-15",
+  "breed": "Khala",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Ryukyu! Loyal, intelligent, independent, courageous, alert, energetic",
+  "synopsis": "A beautiful Khala! Loyal, independent, intelligent, alert, affectionate",
   "stats": {
-    "name": "Ryukyu",
-    "temperament": "Loyal, intelligent, independent, courageous, alert, energetic",
+    "name": "Khala",
+    "temperament": "Loyal, independent, intelligent, alert, affectionate",
     "life_span": "12-14",
     "weight": {
-      "imperial": "Male: 33-44; Female: 26-39",
-      "metric": "Male: 15-20; Female: 12-18"
+      "imperial": "15-33",
+      "metric": "7-15"
     },
     "height": {
-      "imperial": "Male: 18-20.5; Female: 17-19.5",
-      "metric": "Male: 46-52; Female: 43-49"
+      "imperial": "14-20",
+      "metric": "36-51"
     }
   }
 }
