@@ -1,19 +1,19 @@
 {
-  "date": "2026-07-15",
-  "breed": "Khala",
+  "date": "2026-07-16",
+  "breed": "Presa Canario",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Khala! Loyal, independent, intelligent, alert, affectionate",
+  "synopsis": "A beautiful Presa Canario! Confident, calm, protective, intelligent, loyal, courageous",
   "stats": {
-    "name": "Khala",
-    "temperament": "Loyal, independent, intelligent, alert, affectionate",
-    "life_span": "12-14",
+    "name": "Presa Canario",
+    "temperament": "Confident, calm, protective, intelligent, loyal, courageous",
+    "life_span": "9-11",
     "weight": {
-      "imperial": "15-33",
-      "metric": "7-15"
+      "imperial": "Male: 110-130; Female: 85-110",
+      "metric": "Male: 50-59; Female: 39-50"
     },
     "height": {
-      "imperial": "14-20",
-      "metric": "36-51"
+      "imperial": "Male: 23-26; Female: 22-25",
+      "metric": "Male: 58-66; Female: 56-64"
     }
   }
 }
