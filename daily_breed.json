@@ -1,19 +1,19 @@
 {
-  "date": "2026-07-16",
-  "breed": "Presa Canario",
+  "date": "2026-07-17",
+  "breed": "Shikoku",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Presa Canario! Confident, calm, protective, intelligent, loyal, courageous",
+  "synopsis": "A beautiful Shikoku! Alert, loyal, energetic, intelligent, courageous, independent",
   "stats": {
-    "name": "Presa Canario",
-    "temperament": "Confident, calm, protective, intelligent, loyal, courageous",
-    "life_span": "9-11",
+    "name": "Shikoku",
+    "temperament": "Alert, loyal, energetic, intelligent, courageous, independent",
+    "life_span": "10-15",
     "weight": {
-      "imperial": "Male: 110-130; Female: 85-110",
-      "metric": "Male: 50-59; Female: 39-50"
+      "imperial": "Male: 35-55; Female: 35-44",
+      "metric": "Male: 16-25; Female: 16-20"
     },
     "height": {
-      "imperial": "Male: 23-26; Female: 22-25",
-      "metric": "Male: 58-66; Female: 56-64"
+      "imperial": "Male: 18.5-21.5; Female: 17.5-20.5",
+      "metric": "Male: 47-55; Female: 44-52"
     }
   }
 }
