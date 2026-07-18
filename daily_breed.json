@@ -1,19 +1,19 @@
 {
-  "date": "2026-07-17",
-  "breed": "Shikoku",
+  "date": "2026-07-18",
+  "breed": "Catahoula Leopard Dog",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Shikoku! Alert, loyal, energetic, intelligent, courageous, independent",
+  "synopsis": "A beautiful Catahoula Leopard Dog! Independent, intelligent, loyal, protective, energetic, work-focused",
   "stats": {
-    "name": "Shikoku",
-    "temperament": "Alert, loyal, energetic, intelligent, courageous, independent",
-    "life_span": "10-15",
+    "name": "Catahoula Leopard Dog",
+    "temperament": "Independent, intelligent, loyal, protective, energetic, work-focused",
+    "life_span": "10-14",
     "weight": {
-      "imperial": "Male: 35-55; Female: 35-44",
-      "metric": "Male: 16-25; Female: 16-20"
+      "imperial": "Male: 65-90; Female: 50-65",
+      "metric": "Male: 29-41; Female: 23-29"
     },
     "height": {
-      "imperial": "Male: 18.5-21.5; Female: 17.5-20.5",
-      "metric": "Male: 47-55; Female: 44-52"
+      "imperial": "Male: 22-26; Female: 20-24",
+      "metric": "Male: 56-66; Female: 51-61"
     }
   }
 }
