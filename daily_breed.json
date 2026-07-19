@@ -1,19 +1,19 @@
 {
-  "date": "2026-07-18",
-  "breed": "Catahoula Leopard Dog",
+  "date": "2026-07-19",
+  "breed": "Austrian Black And Tan Hound",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Catahoula Leopard Dog! Independent, intelligent, loyal, protective, energetic, work-focused",
+  "synopsis": "A beautiful Austrian Black And Tan Hound! Intelligent, friendly, energetic, work-focused, independent, loyal",
   "stats": {
-    "name": "Catahoula Leopard Dog",
-    "temperament": "Independent, intelligent, loyal, protective, energetic, work-focused",
-    "life_span": "10-14",
+    "name": "Austrian Black and Tan Hound",
+    "temperament": "Intelligent, friendly, energetic, work-focused, independent, loyal",
+    "life_span": "12-14",
     "weight": {
-      "imperial": "Male: 65-90; Female: 50-65",
-      "metric": "Male: 29-41; Female: 23-29"
+      "imperial": "Male: 49-60; Female: 44-55",
+      "metric": "Male: 22-27; Female: 20-25"
     },
     "height": {
-      "imperial": "Male: 22-26; Female: 20-24",
-      "metric": "Male: 56-66; Female: 51-61"
+      "imperial": "19-22",
+      "metric": "48-56"
     }
   }
 }
