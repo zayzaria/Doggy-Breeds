@@ -1,19 +1,19 @@
 {
-  "date": "2026-07-19",
-  "breed": "Austrian Black And Tan Hound",
+  "date": "2026-07-20",
+  "breed": "Puli",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Austrian Black And Tan Hound! Intelligent, friendly, energetic, work-focused, independent, loyal",
+  "synopsis": "A beautiful Puli! Intelligent, energetic, loyal, alert, devoted, playful",
   "stats": {
-    "name": "Austrian Black and Tan Hound",
-    "temperament": "Intelligent, friendly, energetic, work-focused, independent, loyal",
-    "life_span": "12-14",
+    "name": "Puli",
+    "temperament": "Intelligent, energetic, loyal, alert, devoted, playful",
+    "life_span": "10-16",
     "weight": {
-      "imperial": "Male: 49-60; Female: 44-55",
-      "metric": "Male: 22-27; Female: 20-25"
+      "imperial": "Male: 30-35; Female: 25-30",
+      "metric": "Male: 13.5-16; Female: 11-14"
     },
     "height": {
-      "imperial": "19-22",
-      "metric": "48-56"
+      "imperial": "Male: 16.5-17.5; Female: 14.5-16.5",
+      "metric": "Male: 40-44; Female: 37-41"
     }
   }
 }
