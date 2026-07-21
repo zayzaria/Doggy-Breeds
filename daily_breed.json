@@ -1,19 +1,19 @@
 {
-  "date": "2026-07-20",
-  "breed": "Puli",
+  "date": "2026-07-21",
+  "breed": "Schweizerischer Niederlaufhund",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Puli! Intelligent, energetic, loyal, alert, devoted, playful",
+  "synopsis": "A beautiful Schweizerischer Niederlaufhund! Intelligent, alert, energetic, friendly, loyal, independent",
   "stats": {
-    "name": "Puli",
-    "temperament": "Intelligent, energetic, loyal, alert, devoted, playful",
-    "life_span": "10-16",
+    "name": "Schweizerischer Niederlaufhund",
+    "temperament": "Intelligent, alert, energetic, friendly, loyal, independent",
+    "life_span": "12-14",
     "weight": {
-      "imperial": "Male: 30-35; Female: 25-30",
-      "metric": "Male: 13.5-16; Female: 11-14"
+      "imperial": "33-40",
+      "metric": "15-18"
     },
     "height": {
-      "imperial": "Male: 16.5-17.5; Female: 14.5-16.5",
-      "metric": "Male: 40-44; Female: 37-41"
+      "imperial": "13-17",
+      "metric": "33-43"
     }
   }
 }
