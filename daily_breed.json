@@ -1,19 +1,19 @@
 {
-  "date": "2026-07-22",
-  "breed": "Pastor Garafiano",
+  "date": "2026-07-23",
+  "breed": "Sabueso Español",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Pastor Garafiano! Docile, intelligent, loyal, alert, work-focused",
+  "synopsis": "A beautiful Sabueso Español! Loyal, intelligent, calm, devoted, courageous",
   "stats": {
-    "name": "Pastor Garafiano",
-    "temperament": "Docile, intelligent, loyal, alert, work-focused",
-    "life_span": "12-14",
+    "name": "Sabueso Español",
+    "temperament": "Loyal, intelligent, calm, devoted, courageous",
+    "life_span": "10-13",
     "weight": {
-      "imperial": "Male: 55-77; Female: 48-66",
-      "metric": "Male: 25-35; Female: 22-30"
+      "imperial": "Male: 50-55; Female: 44-55",
+      "metric": "Male: 23-25; Female: 20-25"
     },
     "height": {
-      "imperial": "Male: 22-25; Female: 21-24",
-      "metric": "Male: 56-64; Female: 53-59"
+      "imperial": "Male: 20.5-22.4; Female: 18.9-21",
+      "metric": "Male: 52-57; Female: 48-53"
     }
   }
 }
