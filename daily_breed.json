@@ -1,19 +1,19 @@
 {
-  "date": "2026-07-23",
-  "breed": "Sabueso Español",
+  "date": "2026-07-24",
+  "breed": "Mahratta Hound",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Sabueso Español! Loyal, intelligent, calm, devoted, courageous",
+  "synopsis": "A beautiful Mahratta Hound! Independent, loyal, intelligent, alert, athletic",
   "stats": {
-    "name": "Sabueso Español",
-    "temperament": "Loyal, intelligent, calm, devoted, courageous",
-    "life_span": "10-13",
+    "name": "Mahratta Hound",
+    "temperament": "Independent, loyal, intelligent, alert, athletic",
+    "life_span": "10-14",
     "weight": {
-      "imperial": "Male: 50-55; Female: 44-55",
-      "metric": "Male: 23-25; Female: 20-25"
+      "imperial": "Male: 45-65; Female: 40-60",
+      "metric": "Male: 20-29; Female: 18-27"
     },
     "height": {
-      "imperial": "Male: 20.5-22.4; Female: 18.9-21",
-      "metric": "Male: 52-57; Female: 48-53"
+      "imperial": "Male: 22-27; Female: 21-26",
+      "metric": "Male: 56-69; Female: 53-66"
     }
   }
 }
