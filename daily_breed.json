@@ -1,19 +1,19 @@
 {
-  "date": "2026-07-24",
-  "breed": "Mahratta Hound",
+  "date": "2026-07-25",
+  "breed": "Broholmer",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Mahratta Hound! Independent, loyal, intelligent, alert, athletic",
+  "synopsis": "A beautiful Broholmer! Calm, friendly, confident, protective, loyal, gentle",
   "stats": {
-    "name": "Mahratta Hound",
-    "temperament": "Independent, loyal, intelligent, alert, athletic",
-    "life_span": "10-14",
+    "name": "Broholmer",
+    "temperament": "Calm, friendly, confident, protective, loyal, gentle",
+    "life_span": "8-10",
     "weight": {
-      "imperial": "Male: 45-65; Female: 40-60",
-      "metric": "Male: 20-29; Female: 18-27"
+      "imperial": "Male: 110-150; Female: 90-130",
+      "metric": "Male: 50-68; Female: 41-59"
     },
     "height": {
-      "imperial": "Male: 22-27; Female: 21-26",
-      "metric": "Male: 56-69; Female: 53-66"
+      "imperial": "Male: 29.5-30; Female: 27.5-28",
+      "metric": "Male: 75-76; Female: 70-71"
     }
   }
 }
