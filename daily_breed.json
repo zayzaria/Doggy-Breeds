@@ -1,19 +1,19 @@
 {
-  "date": "2026-07-25",
-  "breed": "Broholmer",
+  "date": "2026-07-26",
+  "breed": "Chesapeake Bay Retriever",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Broholmer! Calm, friendly, confident, protective, loyal, gentle",
+  "synopsis": "A beautiful Chesapeake Bay Retriever! Intelligent, courageous, loyal, protective, confident",
   "stats": {
-    "name": "Broholmer",
-    "temperament": "Calm, friendly, confident, protective, loyal, gentle",
-    "life_span": "8-10",
+    "name": "Chesapeake Bay Retriever",
+    "temperament": "Intelligent, courageous, loyal, protective, confident",
+    "life_span": "10-13",
     "weight": {
-      "imperial": "Male: 110-150; Female: 90-130",
-      "metric": "Male: 50-68; Female: 41-59"
+      "imperial": "Male: 65-80; Female: 55-70",
+      "metric": "Male: 29-36; Female: 25-32"
     },
     "height": {
-      "imperial": "Male: 29.5-30; Female: 27.5-28",
-      "metric": "Male: 75-76; Female: 70-71"
+      "imperial": "Male: 23-26; Female: 21-24",
+      "metric": "Male: 58-66; Female: 53-61"
     }
   }
 }
