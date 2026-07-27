@@ -1,19 +1,19 @@
 {
-  "date": "2026-07-26",
-  "breed": "Chesapeake Bay Retriever",
+  "date": "2026-07-27",
+  "breed": "Akbash",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Chesapeake Bay Retriever! Intelligent, courageous, loyal, protective, confident",
+  "synopsis": "A beautiful Akbash! Independent, protective, calm, alert, loyal, intelligent",
   "stats": {
-    "name": "Chesapeake Bay Retriever",
-    "temperament": "Intelligent, courageous, loyal, protective, confident",
-    "life_span": "10-13",
+    "name": "Akbash",
+    "temperament": "Independent, protective, calm, alert, loyal, intelligent",
+    "life_span": "10-12",
     "weight": {
-      "imperial": "Male: 65-80; Female: 55-70",
-      "metric": "Male: 29-36; Female: 25-32"
+      "imperial": "Male: 90-140; Female: 75-105",
+      "metric": "Male: 41-64; Female: 34-48"
     },
     "height": {
-      "imperial": "Male: 23-26; Female: 21-24",
-      "metric": "Male: 58-66; Female: 53-61"
+      "imperial": "Male: 28-34; Female: 27-32",
+      "metric": "Male: 71-86; Female: 69-81"
     }
   }
 }
