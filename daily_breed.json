@@ -1,19 +1,19 @@
 {
-  "date": "2026-07-27",
-  "breed": "Akbash",
+  "date": "2026-07-28",
+  "breed": "Spanish Water Dog",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Akbash! Independent, protective, calm, alert, loyal, intelligent",
+  "synopsis": "A beautiful Spanish Water Dog! Loyal, intelligent, work-focused, athletic, energetic, alert",
   "stats": {
-    "name": "Akbash",
-    "temperament": "Independent, protective, calm, alert, loyal, intelligent",
-    "life_span": "10-12",
+    "name": "Spanish Water Dog",
+    "temperament": "Loyal, intelligent, work-focused, athletic, energetic, alert",
+    "life_span": "12-14",
     "weight": {
-      "imperial": "Male: 90-140; Female: 75-105",
-      "metric": "Male: 41-64; Female: 34-48"
+      "imperial": "Male: 40-49; Female: 31-40",
+      "metric": "Male: 18-22; Female: 14-18"
     },
     "height": {
-      "imperial": "Male: 28-34; Female: 27-32",
-      "metric": "Male: 71-86; Female: 69-81"
+      "imperial": "Male: 17.5-19.75; Female: 15.75-18",
+      "metric": "Male: 44-50; Female: 40-46"
     }
   }
 }
