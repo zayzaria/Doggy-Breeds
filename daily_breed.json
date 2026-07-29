@@ -1,19 +1,19 @@
 {
-  "date": "2026-07-28",
-  "breed": "Spanish Water Dog",
+  "date": "2026-07-29",
+  "breed": "German Shepherd",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Spanish Water Dog! Loyal, intelligent, work-focused, athletic, energetic, alert",
+  "synopsis": "A beautiful German Shepherd! Confident, courageous, intelligent, loyal, protective",
   "stats": {
-    "name": "Spanish Water Dog",
-    "temperament": "Loyal, intelligent, work-focused, athletic, energetic, alert",
-    "life_span": "12-14",
+    "name": "German Shepherd",
+    "temperament": "Confident, courageous, intelligent, loyal, protective",
+    "life_span": "9-13",
     "weight": {
-      "imperial": "Male: 40-49; Female: 31-40",
-      "metric": "Male: 18-22; Female: 14-18"
+      "imperial": "Male: 65-90; Female: 50-70",
+      "metric": "Male: 29-41; Female: 23-32"
     },
     "height": {
-      "imperial": "Male: 17.5-19.75; Female: 15.75-18",
-      "metric": "Male: 44-50; Female: 40-46"
+      "imperial": "Male: 24-26; Female: 22-24",
+      "metric": "Male: 61-66; Female: 56-61"
     }
   }
 }
