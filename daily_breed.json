@@ -1,19 +1,19 @@
 {
-  "date": "2026-07-29",
-  "breed": "German Shepherd",
+  "date": "2026-07-30",
+  "breed": "Briquet Griffon Vendéen",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful German Shepherd! Confident, courageous, intelligent, loyal, protective",
+  "synopsis": "A beautiful Briquet Griffon Vendéen! Courageous, energetic, independent, friendly, alert, intelligent",
   "stats": {
-    "name": "German Shepherd",
-    "temperament": "Confident, courageous, intelligent, loyal, protective",
-    "life_span": "9-13",
+    "name": "Briquet Griffon Vendéen",
+    "temperament": "Courageous, energetic, independent, friendly, alert, intelligent",
+    "life_span": "12-14",
     "weight": {
-      "imperial": "Male: 65-90; Female: 50-70",
-      "metric": "Male: 29-41; Female: 23-32"
+      "imperial": "48-53",
+      "metric": "22-24"
     },
     "height": {
-      "imperial": "Male: 24-26; Female: 22-24",
-      "metric": "Male: 61-66; Female: 56-61"
+      "imperial": "19-22",
+      "metric": "48-56"
     }
   }
 }
