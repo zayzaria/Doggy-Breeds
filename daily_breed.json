@@ -1,19 +1,19 @@
 {
-  "date": "2026-07-30",
-  "breed": "Briquet Griffon Vendéen",
+  "date": "2026-07-31",
+  "breed": "Ca Mè Mallorquí",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Briquet Griffon Vendéen! Courageous, energetic, independent, friendly, alert, intelligent",
+  "synopsis": "A beautiful Ca Mè Mallorquí! Alert, intelligent, energetic, loyal, work-focused",
   "stats": {
-    "name": "Briquet Griffon Vendéen",
-    "temperament": "Courageous, energetic, independent, friendly, alert, intelligent",
+    "name": "Ca Mè Mallorquí",
+    "temperament": "Alert, intelligent, energetic, loyal, work-focused",
     "life_span": "12-14",
     "weight": {
-      "imperial": "48-53",
-      "metric": "22-24"
+      "imperial": "Male: 44-55; Female: 35-44",
+      "metric": "Male: 20-25; Female: 16-20"
     },
     "height": {
-      "imperial": "19-22",
-      "metric": "48-56"
+      "imperial": "Male: 21-23; Female: 19-21",
+      "metric": "Male: 53-58; Female: 48-53"
     }
   }
 }
