@@ -1,19 +1,19 @@
 {
-  "date": "2026-07-31",
-  "breed": "Ca Mè Mallorquí",
+  "date": "2026-08-01",
+  "breed": "Estrela Mountain Dog",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Ca Mè Mallorquí! Alert, intelligent, energetic, loyal, work-focused",
+  "synopsis": "A beautiful Estrela Mountain Dog! Loyal, protective, intelligent, calm, courageous, independent",
   "stats": {
-    "name": "Ca Mè Mallorquí",
-    "temperament": "Alert, intelligent, energetic, loyal, work-focused",
-    "life_span": "12-14",
+    "name": "Estrela Mountain Dog",
+    "temperament": "Loyal, protective, intelligent, calm, courageous, independent",
+    "life_span": "10-14",
     "weight": {
-      "imperial": "Male: 44-55; Female: 35-44",
-      "metric": "Male: 20-25; Female: 16-20"
+      "imperial": "Male: 88-132; Female: 66-99",
+      "metric": "Male: 40-60; Female: 30-50"
     },
     "height": {
-      "imperial": "Male: 21-23; Female: 19-21",
-      "metric": "Male: 53-58; Female: 48-53"
+      "imperial": "Male: 25.5-28.5; Female: 24-27",
+      "metric": "Male: 65-72; Female: 62-69"
     }
   }
 }
