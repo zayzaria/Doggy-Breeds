@@ -1,19 +1,19 @@
 {
-  "date": "2026-08-01",
-  "breed": "Estrela Mountain Dog",
+  "date": "2026-08-02",
+  "breed": "Small Međimurje Dog",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Estrela Mountain Dog! Loyal, protective, intelligent, calm, courageous, independent",
+  "synopsis": "A beautiful Small Međimurje Dog! Energetic, intelligent, alert, loyal, affectionate",
   "stats": {
-    "name": "Estrela Mountain Dog",
-    "temperament": "Loyal, protective, intelligent, calm, courageous, independent",
-    "life_span": "10-14",
+    "name": "Small Međimurje Dog",
+    "temperament": "Energetic, intelligent, alert, loyal, affectionate",
+    "life_span": "12-15",
     "weight": {
-      "imperial": "Male: 88-132; Female: 66-99",
-      "metric": "Male: 40-60; Female: 30-50"
+      "imperial": "Male: 18-35; Female: 15-33",
+      "metric": "Male: 8-16; Female: 7-15"
     },
     "height": {
-      "imperial": "Male: 25.5-28.5; Female: 24-27",
-      "metric": "Male: 65-72; Female: 62-69"
+      "imperial": "Male: 14-17; Female: 13-16.5",
+      "metric": "Male: 35-43; Female: 32-42"
     }
   }
 }
