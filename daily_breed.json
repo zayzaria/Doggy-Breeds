@@ -1,19 +1,19 @@
 {
-  "date": "2026-08-02",
-  "breed": "Small Međimurje Dog",
+  "date": "2026-08-03",
+  "breed": "Neapolitan Mastiff",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Small Međimurje Dog! Energetic, intelligent, alert, loyal, affectionate",
+  "synopsis": "A beautiful Neapolitan Mastiff! Protective, loyal, calm, confident, affectionate",
   "stats": {
-    "name": "Small Međimurje Dog",
-    "temperament": "Energetic, intelligent, alert, loyal, affectionate",
-    "life_span": "12-15",
+    "name": "Neapolitan Mastiff",
+    "temperament": "Protective, loyal, calm, confident, affectionate",
+    "life_span": "7-9",
     "weight": {
-      "imperial": "Male: 18-35; Female: 15-33",
-      "metric": "Male: 8-16; Female: 7-15"
+      "imperial": "Male: 130-200; Female: 110-150",
+      "metric": "Male: 60-91; Female: 50-68"
     },
     "height": {
-      "imperial": "Male: 14-17; Female: 13-16.5",
-      "metric": "Male: 35-43; Female: 32-42"
+      "imperial": "Male: 26-31; Female: 24-29",
+      "metric": "Male: 66-79; Female: 61-74"
     }
   }
 }
