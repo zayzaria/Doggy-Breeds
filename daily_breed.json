@@ -1,19 +1,19 @@
 {
-  "date": "2026-08-03",
-  "breed": "Neapolitan Mastiff",
+  "date": "2026-08-04",
+  "breed": "Landseer",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Neapolitan Mastiff! Protective, loyal, calm, confident, affectionate",
+  "synopsis": "A beautiful Landseer! Gentle, calm, intelligent, loyal, devoted, protective",
   "stats": {
-    "name": "Neapolitan Mastiff",
-    "temperament": "Protective, loyal, calm, confident, affectionate",
-    "life_span": "7-9",
+    "name": "Landseer",
+    "temperament": "Gentle, calm, intelligent, loyal, devoted, protective",
+    "life_span": "8-11",
     "weight": {
-      "imperial": "Male: 130-200; Female: 110-150",
-      "metric": "Male: 60-91; Female: 50-68"
+      "imperial": "Male: 110-150; Female: 99-130",
+      "metric": "Male: 50-68; Female: 45-59"
     },
     "height": {
-      "imperial": "Male: 26-31; Female: 24-29",
-      "metric": "Male: 66-79; Female: 61-74"
+      "imperial": "Male: 28-31.5; Female: 26-28.5",
+      "metric": "Male: 71-80; Female: 66-72"
     }
   }
 }
