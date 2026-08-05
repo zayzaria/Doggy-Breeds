@@ -1,19 +1,19 @@
 {
-  "date": "2026-08-04",
-  "breed": "Landseer",
+  "date": "2026-08-05",
+  "breed": "Chorkie",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Landseer! Gentle, calm, intelligent, loyal, devoted, protective",
+  "synopsis": "A beautiful Chorkie! Alert, loyal, energetic, confident, affectionate, playful, intelligent",
   "stats": {
-    "name": "Landseer",
-    "temperament": "Gentle, calm, intelligent, loyal, devoted, protective",
-    "life_span": "8-11",
+    "name": "Chorkie",
+    "temperament": "Alert, loyal, energetic, confident, affectionate, playful, intelligent",
+    "life_span": "12-15",
     "weight": {
-      "imperial": "Male: 110-150; Female: 99-130",
-      "metric": "Male: 50-68; Female: 45-59"
+      "imperial": "4-10",
+      "metric": "1.8-4.5"
     },
     "height": {
-      "imperial": "Male: 28-31.5; Female: 26-28.5",
-      "metric": "Male: 71-80; Female: 66-72"
+      "imperial": "6-9",
+      "metric": "15-23"
     }
   }
 }
