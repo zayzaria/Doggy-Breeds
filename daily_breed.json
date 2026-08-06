@@ -1,19 +1,19 @@
 {
-  "date": "2026-08-05",
-  "breed": "Chorkie",
+  "date": "2026-08-06",
+  "breed": "Castro Laboreiro Dog",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Chorkie! Alert, loyal, energetic, confident, affectionate, playful, intelligent",
+  "synopsis": "A beautiful Castro Laboreiro Dog! Loyal, protective, intelligent, independent, alert, courageous",
   "stats": {
-    "name": "Chorkie",
-    "temperament": "Alert, loyal, energetic, confident, affectionate, playful, intelligent",
-    "life_span": "12-15",
+    "name": "Castro Laboreiro Dog",
+    "temperament": "Loyal, protective, intelligent, independent, alert, courageous",
+    "life_span": "11-13",
     "weight": {
-      "imperial": "4-10",
-      "metric": "1.8-4.5"
+      "imperial": "Male: 66-88; Female: 55-77",
+      "metric": "Male: 30-40; Female: 25-35"
     },
     "height": {
-      "imperial": "6-9",
-      "metric": "15-23"
+      "imperial": "Male: 23-25; Female: 21.5-23.5",
+      "metric": "Male: 58-63; Female: 55-60"
     }
   }
 }
