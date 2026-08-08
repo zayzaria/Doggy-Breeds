@@ -1,19 +1,19 @@
 {
-  "date": "2026-08-07",
-  "breed": "Giant Schnauzer",
+  "date": "2026-08-08",
+  "breed": "Mojee",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Giant Schnauzer! Loyal, intelligent, alert, energetic, courageous, confident",
+  "synopsis": "A beautiful Mojee! Affectionate, playful, intelligent, gentle",
   "stats": {
-    "name": "Giant Schnauzer",
-    "temperament": "Loyal, intelligent, alert, energetic, courageous, confident",
+    "name": "Mojee",
+    "temperament": "Affectionate, playful, intelligent, gentle",
     "life_span": "12-15",
     "weight": {
-      "imperial": "Male: 60-85; Female: 55-75",
-      "metric": "Male: 27-39; Female: 25-34"
+      "imperial": "6-12",
+      "metric": "3-5"
     },
     "height": {
-      "imperial": "Male: 25.5-27.5; Female: 23.5-25.5",
-      "metric": "Male: 65-70; Female: 60-65"
+      "imperial": "8-11",
+      "metric": "20-28"
     }
   }
 }
