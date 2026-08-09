@@ -1,19 +1,19 @@
 {
-  "date": "2026-08-08",
-  "breed": "Mojee",
+  "date": "2026-08-09",
+  "breed": "Drever",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Mojee! Affectionate, playful, intelligent, gentle",
+  "synopsis": "A beautiful Drever! Alert, calm, friendly, intelligent, loyal, even-tempered, courageous",
   "stats": {
-    "name": "Mojee",
-    "temperament": "Affectionate, playful, intelligent, gentle",
+    "name": "Drever",
+    "temperament": "Alert, calm, friendly, intelligent, loyal, even-tempered, courageous",
     "life_span": "12-15",
     "weight": {
-      "imperial": "6-12",
-      "metric": "3-5"
+      "imperial": "30-40",
+      "metric": "14-18"
     },
     "height": {
-      "imperial": "8-11",
-      "metric": "20-28"
+      "imperial": "12-15",
+      "metric": "30-38"
     }
   }
 }
