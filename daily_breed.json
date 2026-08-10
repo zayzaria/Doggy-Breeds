@@ -1,19 +1,19 @@
 {
-  "date": "2026-08-09",
-  "breed": "Drever",
+  "date": "2026-08-10",
+  "breed": "Yorkipoo",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Drever! Alert, calm, friendly, intelligent, loyal, even-tempered, courageous",
+  "synopsis": "A beautiful Yorkipoo! Intelligent, affectionate, playful, energetic, confident",
   "stats": {
-    "name": "Drever",
-    "temperament": "Alert, calm, friendly, intelligent, loyal, even-tempered, courageous",
-    "life_span": "12-15",
+    "name": "Yorkipoo",
+    "temperament": "Intelligent, affectionate, playful, energetic, confident",
+    "life_span": "10-15",
     "weight": {
-      "imperial": "30-40",
-      "metric": "14-18"
+      "imperial": "4-14",
+      "metric": "2-6.5"
     },
     "height": {
-      "imperial": "12-15",
-      "metric": "30-38"
+      "imperial": "7-15",
+      "metric": "18-38"
     }
   }
 }
