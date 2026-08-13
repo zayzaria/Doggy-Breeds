@@ -1,19 +1,19 @@
 {
-  "date": "2026-08-12",
-  "breed": "Drever",
+  "date": "2026-08-13",
+  "breed": "Laizhou Hong",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Drever! Alert, calm, friendly, intelligent, loyal, even-tempered, courageous",
+  "synopsis": "A beautiful Laizhou Hong! Loyal, protective, confident, intelligent, alert",
   "stats": {
-    "name": "Drever",
-    "temperament": "Alert, calm, friendly, intelligent, loyal, even-tempered, courageous",
-    "life_span": "12-15",
+    "name": "Laizhou Hong",
+    "temperament": "Loyal, protective, confident, intelligent, alert",
+    "life_span": "10-12",
     "weight": {
-      "imperial": "30-40",
-      "metric": "14-18"
+      "imperial": "Male: 77-99; Female: 66-88",
+      "metric": "Male: 35-45; Female: 30-40"
     },
     "height": {
-      "imperial": "12-15",
-      "metric": "30-38"
+      "imperial": "Male: 28-32; Female: 26-30",
+      "metric": "Male: 71-81; Female: 66-76"
     }
   }
 }
