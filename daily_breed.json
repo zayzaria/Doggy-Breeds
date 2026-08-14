@@ -1,19 +1,19 @@
 {
-  "date": "2026-08-13",
-  "breed": "Laizhou Hong",
+  "date": "2026-08-14",
+  "breed": "Petit Basset Griffon Vendéen",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Laizhou Hong! Loyal, protective, confident, intelligent, alert",
+  "synopsis": "A beautiful Petit Basset Griffon Vendéen! Happy, outgoing, independent, alert, confident, energetic",
   "stats": {
-    "name": "Laizhou Hong",
-    "temperament": "Loyal, protective, confident, intelligent, alert",
-    "life_span": "10-12",
+    "name": "Petit Basset Griffon Vendéen",
+    "temperament": "Happy, outgoing, independent, alert, confident, energetic",
+    "life_span": "12-16",
     "weight": {
-      "imperial": "Male: 77-99; Female: 66-88",
-      "metric": "Male: 35-45; Female: 30-40"
+      "imperial": "25-40",
+      "metric": "11-18"
     },
     "height": {
-      "imperial": "Male: 28-32; Female: 26-30",
-      "metric": "Male: 71-81; Female: 66-76"
+      "imperial": "13-15",
+      "metric": "33-38"
     }
   }
 }
