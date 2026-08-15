@@ -1,19 +1,19 @@
 {
-  "date": "2026-08-14",
-  "breed": "Petit Basset Griffon Vendéen",
+  "date": "2026-08-15",
+  "breed": "Pitsky",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Petit Basset Griffon Vendéen! Happy, outgoing, independent, alert, confident, energetic",
+  "synopsis": "A beautiful Pitsky! Energetic, loyal, intelligent, confident, playful",
   "stats": {
-    "name": "Petit Basset Griffon Vendéen",
-    "temperament": "Happy, outgoing, independent, alert, confident, energetic",
-    "life_span": "12-16",
+    "name": "Pitsky",
+    "temperament": "Energetic, loyal, intelligent, confident, playful",
+    "life_span": "12-15",
     "weight": {
-      "imperial": "25-40",
-      "metric": "11-18"
+      "imperial": "Male: 35-70; Female: 30-60",
+      "metric": "Male: 16-32; Female: 14-27"
     },
     "height": {
-      "imperial": "13-15",
-      "metric": "33-38"
+      "imperial": "Male: 19-24; Female: 18-22",
+      "metric": "Male: 48-61; Female: 46-56"
     }
   }
 }
