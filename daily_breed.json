@@ -1,19 +1,19 @@
 {
-  "date": "2026-08-15",
-  "breed": "Pitsky",
+  "date": "2026-08-16",
+  "breed": "Norwich Terrier",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Pitsky! Energetic, loyal, intelligent, confident, playful",
+  "synopsis": "A beautiful Norwich Terrier! Alert, energetic, affectionate, courageous, outgoing",
   "stats": {
-    "name": "Pitsky",
-    "temperament": "Energetic, loyal, intelligent, confident, playful",
+    "name": "Norwich Terrier",
+    "temperament": "Alert, energetic, affectionate, courageous, outgoing",
     "life_span": "12-15",
     "weight": {
-      "imperial": "Male: 35-70; Female: 30-60",
-      "metric": "Male: 16-32; Female: 14-27"
+      "imperial": "11-12",
+      "metric": "5-5.5"
     },
     "height": {
-      "imperial": "Male: 19-24; Female: 18-22",
-      "metric": "Male: 48-61; Female: 46-56"
+      "imperial": "9-10",
+      "metric": "23-25"
     }
   }
 }
