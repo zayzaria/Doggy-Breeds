@@ -1,19 +1,19 @@
 {
-  "date": "2026-08-16",
-  "breed": "Norwich Terrier",
+  "date": "2026-08-17",
+  "breed": "Treeing Walker Coonhound",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Norwich Terrier! Alert, energetic, affectionate, courageous, outgoing",
+  "synopsis": "A beautiful Treeing Walker Coonhound! Intelligent, confident, friendly, energetic, courageous, alert",
   "stats": {
-    "name": "Norwich Terrier",
-    "temperament": "Alert, energetic, affectionate, courageous, outgoing",
-    "life_span": "12-15",
+    "name": "Treeing Walker Coonhound",
+    "temperament": "Intelligent, confident, friendly, energetic, courageous, alert",
+    "life_span": "12-13",
     "weight": {
-      "imperial": "11-12",
-      "metric": "5-5.5"
+      "imperial": "50-70",
+      "metric": "23-32"
     },
     "height": {
-      "imperial": "9-10",
-      "metric": "23-25"
+      "imperial": "Male: 22-27; Female: 20-25",
+      "metric": "Male: 56-69; Female: 51-64"
     }
   }
 }
