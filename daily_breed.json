@@ -1,19 +1,19 @@
 {
-  "date": "2026-08-17",
-  "breed": "Treeing Walker Coonhound",
+  "date": "2026-08-18",
+  "breed": "American Pit Bull Terrier",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Treeing Walker Coonhound! Intelligent, confident, friendly, energetic, courageous, alert",
+  "synopsis": "A beautiful American Pit Bull Terrier! Confident, intelligent, loyal, affectionate, eager to please, energetic",
   "stats": {
-    "name": "Treeing Walker Coonhound",
-    "temperament": "Intelligent, confident, friendly, energetic, courageous, alert",
-    "life_span": "12-13",
+    "name": "American Pit Bull Terrier",
+    "temperament": "Confident, intelligent, loyal, affectionate, eager to please, energetic",
+    "life_span": "12-16",
     "weight": {
-      "imperial": "50-70",
-      "metric": "23-32"
+      "imperial": "Male: 35-60; Female: 30-50",
+      "metric": "Male: 16-27; Female: 14-23"
     },
     "height": {
-      "imperial": "Male: 22-27; Female: 20-25",
-      "metric": "Male: 56-69; Female: 51-64"
+      "imperial": "Male: 18-21; Female: 17-20",
+      "metric": "Male: 46-53; Female: 43-51"
     }
   }
 }
