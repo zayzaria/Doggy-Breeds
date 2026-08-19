@@ -1,19 +1,19 @@
 {
-  "date": "2026-08-18",
-  "breed": "American Pit Bull Terrier",
+  "date": "2026-08-19",
+  "breed": "Italian Greyhound",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful American Pit Bull Terrier! Confident, intelligent, loyal, affectionate, eager to please, energetic",
+  "synopsis": "A beautiful Italian Greyhound! Affectionate, gentle, playful, alert, intelligent",
   "stats": {
-    "name": "American Pit Bull Terrier",
-    "temperament": "Confident, intelligent, loyal, affectionate, eager to please, energetic",
-    "life_span": "12-16",
+    "name": "Italian Greyhound",
+    "temperament": "Affectionate, gentle, playful, alert, intelligent",
+    "life_span": null,
     "weight": {
-      "imperial": "Male: 35-60; Female: 30-50",
-      "metric": "Male: 16-27; Female: 14-23"
+      "imperial": "7-14",
+      "metric": "3-6.5"
     },
     "height": {
-      "imperial": "Male: 18-21; Female: 17-20",
-      "metric": "Male: 46-53; Female: 43-51"
+      "imperial": "13-15",
+      "metric": "33-38"
     }
   }
 }
