@@ -1,19 +1,19 @@
 {
-  "date": "2026-08-19",
-  "breed": "Italian Greyhound",
+  "date": "2026-08-20",
+  "breed": "Gull Terrier",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Italian Greyhound! Affectionate, gentle, playful, alert, intelligent",
+  "synopsis": "A beautiful Gull Terrier! Loyal, courageous, intelligent, protective, independent, energetic, alert",
   "stats": {
-    "name": "Italian Greyhound",
-    "temperament": "Affectionate, gentle, playful, alert, intelligent",
-    "life_span": null,
+    "name": "Gull Terrier",
+    "temperament": "Loyal, courageous, intelligent, protective, independent, energetic, alert",
+    "life_span": "10-14",
     "weight": {
-      "imperial": "7-14",
-      "metric": "3-6.5"
+      "imperial": "Male: 55-66; Female: 49-60",
+      "metric": "Male: 25-30; Female: 22-27"
     },
     "height": {
-      "imperial": "13-15",
-      "metric": "33-38"
+      "imperial": "Male: 18-22; Female: 17-21",
+      "metric": "Male: 46-56; Female: 43-53"
     }
   }
 }
