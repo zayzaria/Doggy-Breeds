@@ -1,19 +1,19 @@
 {
-  "date": "2026-08-20",
-  "breed": "Gull Terrier",
+  "date": "2026-08-21",
+  "breed": "American Pit Bull Terrier",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Gull Terrier! Loyal, courageous, intelligent, protective, independent, energetic, alert",
+  "synopsis": "A beautiful American Pit Bull Terrier! Confident, intelligent, loyal, affectionate, eager to please, energetic",
   "stats": {
-    "name": "Gull Terrier",
-    "temperament": "Loyal, courageous, intelligent, protective, independent, energetic, alert",
-    "life_span": "10-14",
+    "name": "American Pit Bull Terrier",
+    "temperament": "Confident, intelligent, loyal, affectionate, eager to please, energetic",
+    "life_span": "12-16",
     "weight": {
-      "imperial": "Male: 55-66; Female: 49-60",
-      "metric": "Male: 25-30; Female: 22-27"
+      "imperial": "Male: 35-60; Female: 30-50",
+      "metric": "Male: 16-27; Female: 14-23"
     },
     "height": {
-      "imperial": "Male: 18-22; Female: 17-21",
-      "metric": "Male: 46-56; Female: 43-53"
+      "imperial": "Male: 18-21; Female: 17-20",
+      "metric": "Male: 46-53; Female: 43-51"
     }
   }
 }
