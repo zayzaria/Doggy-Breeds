@@ -1,19 +1,19 @@
 {
-  "date": "2026-08-21",
-  "breed": "American Pit Bull Terrier",
+  "date": "2026-08-22",
+  "breed": "Eurasier",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful American Pit Bull Terrier! Confident, intelligent, loyal, affectionate, eager to please, energetic",
+  "synopsis": "A beautiful Eurasier! Calm, confident, loyal, intelligent, gentle, reserved",
   "stats": {
-    "name": "American Pit Bull Terrier",
-    "temperament": "Confident, intelligent, loyal, affectionate, eager to please, energetic",
-    "life_span": "12-16",
+    "name": "Eurasier",
+    "temperament": "Calm, confident, loyal, intelligent, gentle, reserved",
+    "life_span": "12-14",
     "weight": {
-      "imperial": "Male: 35-60; Female: 30-50",
-      "metric": "Male: 16-27; Female: 14-23"
+      "imperial": "Male: 51-71; Female: 40-57",
+      "metric": "Male: 23-32; Female: 18-26"
     },
     "height": {
-      "imperial": "Male: 18-21; Female: 17-20",
-      "metric": "Male: 46-53; Female: 43-51"
+      "imperial": "Male: 20.5-23.5; Female: 19-22",
+      "metric": "Male: 52-60; Female: 48-56"
     }
   }
 }
