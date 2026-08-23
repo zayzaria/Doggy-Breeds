@@ -1,19 +1,19 @@
 {
-  "date": "2026-08-22",
-  "breed": "Eurasier",
+  "date": "2026-08-23",
+  "breed": "Bolognese",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Eurasier! Calm, confident, loyal, intelligent, gentle, reserved",
+  "synopsis": "A beautiful Bolognese! Calm, devoted, intelligent, playful, gentle, loyal",
   "stats": {
-    "name": "Eurasier",
-    "temperament": "Calm, confident, loyal, intelligent, gentle, reserved",
+    "name": "Bolognese",
+    "temperament": "Calm, devoted, intelligent, playful, gentle, loyal",
     "life_span": "12-14",
     "weight": {
-      "imperial": "Male: 51-71; Female: 40-57",
-      "metric": "Male: 23-32; Female: 18-26"
+      "imperial": "5.5-9",
+      "metric": "2.5-4"
     },
     "height": {
-      "imperial": "Male: 20.5-23.5; Female: 19-22",
-      "metric": "Male: 52-60; Female: 48-56"
+      "imperial": "10-12",
+      "metric": "25-30"
     }
   }
 }
