@@ -1,19 +1,19 @@
 {
-  "date": "2026-08-23",
-  "breed": "Bolognese",
+  "date": "2026-08-24",
+  "breed": "Phalène",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Bolognese! Calm, devoted, intelligent, playful, gentle, loyal",
+  "synopsis": "A beautiful Phalène! Friendly, intelligent, alert, gentle, playful, happy",
   "stats": {
-    "name": "Bolognese",
-    "temperament": "Calm, devoted, intelligent, playful, gentle, loyal",
-    "life_span": "12-14",
+    "name": "Phalène",
+    "temperament": "Friendly, intelligent, alert, gentle, playful, happy",
+    "life_span": null,
     "weight": {
-      "imperial": "5.5-9",
-      "metric": "2.5-4"
+      "imperial": "5-10",
+      "metric": "2.3-4.5"
     },
     "height": {
-      "imperial": "10-12",
-      "metric": "25-30"
+      "imperial": "8-11",
+      "metric": "20-28"
     }
   }
 }
