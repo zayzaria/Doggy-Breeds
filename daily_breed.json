@@ -1,19 +1,19 @@
 {
-  "date": "2026-08-24",
-  "breed": "Phalène",
+  "date": "2026-08-25",
+  "breed": "Pudelpointer",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Phalène! Friendly, intelligent, alert, gentle, playful, happy",
+  "synopsis": "A beautiful Pudelpointer! Intelligent, loyal, eager to please, work-focused, energetic, playful",
   "stats": {
-    "name": "Phalène",
-    "temperament": "Friendly, intelligent, alert, gentle, playful, happy",
-    "life_span": null,
+    "name": "Pudelpointer",
+    "temperament": "Intelligent, loyal, eager to please, work-focused, energetic, playful",
+    "life_span": "11-14",
     "weight": {
-      "imperial": "5-10",
-      "metric": "2.3-4.5"
+      "imperial": "Male: 55-70; Female: 45-65",
+      "metric": "Male: 25-32; Female: 20-29"
     },
     "height": {
-      "imperial": "8-11",
-      "metric": "20-28"
+      "imperial": "Male: 22-27; Female: 21-25",
+      "metric": "Male: 56-69; Female: 53-64"
     }
   }
 }
