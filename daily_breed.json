@@ -1,19 +1,19 @@
 {
-  "date": "2026-08-26",
-  "breed": "Pyredoodle",
-  "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Pyredoodle! Intelligent, loyal, gentle, protective, calm, affectionate",
+  "date": "2026-08-27",
+  "breed": "Affenpinscher",
+  "image_url": "https://images.dog.ceo/breeds/affenpinscher/n02110627_12070.jpg",
+  "synopsis": "A beautiful Affenpinscher! Confident, alert, playful, loyal, courageous",
   "stats": {
-    "name": "Pyredoodle",
-    "temperament": "Intelligent, loyal, gentle, protective, calm, affectionate",
-    "life_span": "10-13",
+    "name": "Affenpinscher",
+    "temperament": "Confident, alert, playful, loyal, courageous",
+    "life_span": "12-15",
     "weight": {
-      "imperial": "Male: 85-120; Female: 75-105",
-      "metric": "Male: 39-54; Female: 34-48"
+      "imperial": "7-10",
+      "metric": "3.2-4.5"
     },
     "height": {
-      "imperial": "Male: 25-32; Female: 22-29",
-      "metric": "Male: 64-81; Female: 56-74"
+      "imperial": "9-11.5",
+      "metric": "23-29"
     }
   }
 }
