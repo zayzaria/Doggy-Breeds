@@ -1,19 +1,19 @@
 {
-  "date": "2026-08-27",
-  "breed": "Affenpinscher",
-  "image_url": "https://images.dog.ceo/breeds/affenpinscher/n02110627_12070.jpg",
-  "synopsis": "A beautiful Affenpinscher! Confident, alert, playful, loyal, courageous",
+  "date": "2026-08-28",
+  "breed": "Caucasian Shepherd Dog",
+  "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
+  "synopsis": "A beautiful Caucasian Shepherd Dog! Protective, independent, courageous, loyal, confident",
   "stats": {
-    "name": "Affenpinscher",
-    "temperament": "Confident, alert, playful, loyal, courageous",
-    "life_span": "12-15",
+    "name": "Caucasian Shepherd Dog",
+    "temperament": "Protective, independent, courageous, loyal, confident",
+    "life_span": "10-12",
     "weight": {
-      "imperial": "7-10",
-      "metric": "3.2-4.5"
+      "imperial": "Male: 110-170; Female: 99-150",
+      "metric": "Male: 50-77; Female: 45-68"
     },
     "height": {
-      "imperial": "9-11.5",
-      "metric": "23-29"
+      "imperial": "Male: 27-30; Female: 25-28",
+      "metric": "Male: 68-76; Female: 64-71"
     }
   }
 }
