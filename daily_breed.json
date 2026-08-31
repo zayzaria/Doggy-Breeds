@@ -1,19 +1,19 @@
 {
-  "date": "2026-08-30",
-  "breed": "Wire Fox Terrier",
+  "date": "2026-08-31",
+  "breed": "Dikkulak",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Wire Fox Terrier! Alert, confident, energetic, intelligent, playful",
+  "synopsis": "A beautiful Dikkulak! Alert, energetic, loyal, intelligent",
   "stats": {
-    "name": "Wire Fox Terrier",
-    "temperament": "Alert, confident, energetic, intelligent, playful",
-    "life_span": "12-15",
+    "name": "Dikkulak",
+    "temperament": "Alert, energetic, loyal, intelligent",
+    "life_span": "12-16",
     "weight": {
-      "imperial": "Male: 17-19; Female: 15-17",
-      "metric": "Male: 7.7-8.6; Female: 6.8-7.7"
+      "imperial": "Male: 20-30; Female: 18-28",
+      "metric": "Male: 9-14; Female: 8-13"
     },
     "height": {
-      "imperial": "Male: 15-15.5; Female: 14-15.5",
-      "metric": "Male: 38-39; Female: 36-39"
+      "imperial": "Male: 13-16; Female: 12-15",
+      "metric": "Male: 33-41; Female: 30-38"
     }
   }
 }
