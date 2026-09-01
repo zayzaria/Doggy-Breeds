@@ -1,19 +1,19 @@
 {
-  "date": "2026-08-31",
-  "breed": "Dikkulak",
+  "date": "2026-09-01",
+  "breed": "Tatra Shepherd Dog",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Dikkulak! Alert, energetic, loyal, intelligent",
+  "synopsis": "A beautiful Tatra Shepherd Dog! Protective, intelligent, calm, confident, loyal, independent, courageous",
   "stats": {
-    "name": "Dikkulak",
-    "temperament": "Alert, energetic, loyal, intelligent",
-    "life_span": "12-16",
+    "name": "Tatra Shepherd Dog",
+    "temperament": "Protective, intelligent, calm, confident, loyal, independent, courageous",
+    "life_span": "10-13",
     "weight": {
-      "imperial": "Male: 20-30; Female: 18-28",
-      "metric": "Male: 9-14; Female: 8-13"
+      "imperial": "Male: 88-130; Female: 79-112",
+      "metric": "Male: 40-59; Female: 36-51"
     },
     "height": {
-      "imperial": "Male: 13-16; Female: 12-15",
-      "metric": "Male: 33-41; Female: 30-38"
+      "imperial": "Male: 25.5-28; Female: 23.5-26",
+      "metric": "Male: 65-71; Female: 60-66"
     }
   }
 }
