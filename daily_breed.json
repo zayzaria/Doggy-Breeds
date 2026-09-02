@@ -1,19 +1,19 @@
 {
-  "date": "2026-09-01",
-  "breed": "Tatra Shepherd Dog",
+  "date": "2026-09-02",
+  "breed": "New Guinea Singing Dog",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Tatra Shepherd Dog! Protective, intelligent, calm, confident, loyal, independent, courageous",
+  "synopsis": "A beautiful New Guinea Singing Dog! Independent, alert, intelligent, energetic, cautious",
   "stats": {
-    "name": "Tatra Shepherd Dog",
-    "temperament": "Protective, intelligent, calm, confident, loyal, independent, courageous",
-    "life_span": "10-13",
+    "name": "New Guinea Singing Dog",
+    "temperament": "Independent, alert, intelligent, energetic, cautious",
+    "life_span": null,
     "weight": {
-      "imperial": "Male: 88-130; Female: 79-112",
-      "metric": "Male: 40-59; Female: 36-51"
+      "imperial": "Male: 20-30; Female: 18-24",
+      "metric": "Male: 9-14; Female: 8-11"
     },
     "height": {
-      "imperial": "Male: 25.5-28; Female: 23.5-26",
-      "metric": "Male: 65-71; Female: 60-66"
+      "imperial": "Male: 14-18; Female: 13-16",
+      "metric": "Male: 36-46; Female: 33-41"
     }
   }
 }
