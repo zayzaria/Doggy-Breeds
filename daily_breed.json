@@ -1,19 +1,19 @@
 {
-  "date": "2026-09-02",
-  "breed": "New Guinea Singing Dog",
+  "date": "2026-09-03",
+  "breed": "Belgian Laekenois",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful New Guinea Singing Dog! Independent, alert, intelligent, energetic, cautious",
+  "synopsis": "A beautiful Belgian Laekenois! Alert, intelligent, protective, loyal, energetic, affectionate",
   "stats": {
-    "name": "New Guinea Singing Dog",
-    "temperament": "Independent, alert, intelligent, energetic, cautious",
-    "life_span": null,
+    "name": "Belgian Laekenois",
+    "temperament": "Alert, intelligent, protective, loyal, energetic, affectionate",
+    "life_span": "10-14",
     "weight": {
-      "imperial": "Male: 20-30; Female: 18-24",
-      "metric": "Male: 9-14; Female: 8-11"
+      "imperial": "Male: 55-65; Female: 45-60",
+      "metric": "Male: 25-30; Female: 20-27"
     },
     "height": {
-      "imperial": "Male: 14-18; Female: 13-16",
-      "metric": "Male: 36-46; Female: 33-41"
+      "imperial": "Male: 24-26; Female: 22-24",
+      "metric": "Male: 61-66; Female: 56-61"
     }
   }
 }
