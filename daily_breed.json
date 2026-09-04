@@ -1,19 +1,19 @@
 {
-  "date": "2026-09-03",
-  "breed": "Belgian Laekenois",
+  "date": "2026-09-04",
+  "breed": "Kerry Blue Terrier",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Belgian Laekenois! Alert, intelligent, protective, loyal, energetic, affectionate",
+  "synopsis": "A beautiful Kerry Blue Terrier! Alert, intelligent, loyal, playful, energetic, courageous",
   "stats": {
-    "name": "Belgian Laekenois",
-    "temperament": "Alert, intelligent, protective, loyal, energetic, affectionate",
-    "life_span": "10-14",
+    "name": "Kerry Blue Terrier",
+    "temperament": "Alert, intelligent, loyal, playful, energetic, courageous",
+    "life_span": "12-15",
     "weight": {
-      "imperial": "Male: 55-65; Female: 45-60",
-      "metric": "Male: 25-30; Female: 20-27"
+      "imperial": "Male: 33-40; Female: 30-40",
+      "metric": "Male: 15-18; Female: 14-18"
     },
     "height": {
-      "imperial": "Male: 24-26; Female: 22-24",
-      "metric": "Male: 61-66; Female: 56-61"
+      "imperial": "Male: 18-19.5; Female: 17.5-19",
+      "metric": "Male: 46-50; Female: 44-48"
     }
   }
 }
