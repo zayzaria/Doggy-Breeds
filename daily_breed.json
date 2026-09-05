@@ -1,19 +1,19 @@
 {
-  "date": "2026-09-04",
-  "breed": "Kerry Blue Terrier",
+  "date": "2026-09-05",
+  "breed": "Ariège Pointer",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Kerry Blue Terrier! Alert, intelligent, loyal, playful, energetic, courageous",
+  "synopsis": "A beautiful Ariège Pointer! Intelligent, gentle, docile, loyal, work-focused, adaptable",
   "stats": {
-    "name": "Kerry Blue Terrier",
-    "temperament": "Alert, intelligent, loyal, playful, energetic, courageous",
-    "life_span": "12-15",
+    "name": "Ariège Pointer",
+    "temperament": "Intelligent, gentle, docile, loyal, work-focused, adaptable",
+    "life_span": "12-14",
     "weight": {
-      "imperial": "Male: 33-40; Female: 30-40",
-      "metric": "Male: 15-18; Female: 14-18"
+      "imperial": "Male: 55-66; Female: 48-60",
+      "metric": "Male: 25-30; Female: 22-27"
     },
     "height": {
-      "imperial": "Male: 18-19.5; Female: 17.5-19",
-      "metric": "Male: 46-50; Female: 44-48"
+      "imperial": "Male: 23.5-26; Female: 22-25",
+      "metric": "Male: 60-67; Female: 56-63"
     }
   }
 }
