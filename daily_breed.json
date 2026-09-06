@@ -1,19 +1,19 @@
 {
-  "date": "2026-09-05",
-  "breed": "Ariège Pointer",
+  "date": "2026-09-06",
+  "breed": "Biewer Terrier",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Ariège Pointer! Intelligent, gentle, docile, loyal, work-focused, adaptable",
+  "synopsis": "A beautiful Biewer Terrier! Friendly, intelligent, playful, devoted, affectionate",
   "stats": {
-    "name": "Ariège Pointer",
-    "temperament": "Intelligent, gentle, docile, loyal, work-focused, adaptable",
-    "life_span": "12-14",
+    "name": "Biewer Terrier",
+    "temperament": "Friendly, intelligent, playful, devoted, affectionate",
+    "life_span": null,
     "weight": {
-      "imperial": "Male: 55-66; Female: 48-60",
-      "metric": "Male: 25-30; Female: 22-27"
+      "imperial": "4-8",
+      "metric": "1.8-3.6"
     },
     "height": {
-      "imperial": "Male: 23.5-26; Female: 22-25",
-      "metric": "Male: 60-67; Female: 56-63"
+      "imperial": "7-11",
+      "metric": "18-28"
     }
   }
 }
