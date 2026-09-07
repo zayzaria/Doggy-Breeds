@@ -1,19 +1,19 @@
 {
-  "date": "2026-09-06",
-  "breed": "Biewer Terrier",
+  "date": "2026-09-07",
+  "breed": "German Hound",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Biewer Terrier! Friendly, intelligent, playful, devoted, affectionate",
+  "synopsis": "A beautiful German Hound! Intelligent, loyal, energetic, calm, confident",
   "stats": {
-    "name": "Biewer Terrier",
-    "temperament": "Friendly, intelligent, playful, devoted, affectionate",
-    "life_span": null,
+    "name": "German Hound",
+    "temperament": "Intelligent, loyal, energetic, calm, confident",
+    "life_span": "10-14",
     "weight": {
-      "imperial": "4-8",
-      "metric": "1.8-3.6"
+      "imperial": "40-55",
+      "metric": "18-25"
     },
     "height": {
-      "imperial": "7-11",
-      "metric": "18-28"
+      "imperial": "Male: 19-21; Female: 18-20",
+      "metric": "Male: 48-53; Female: 46-51"
     }
   }
 }
