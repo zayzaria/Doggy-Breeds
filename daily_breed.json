@@ -1,19 +1,19 @@
 {
-  "date": "2026-09-09",
-  "breed": "Rough Collie",
+  "date": "2026-09-10",
+  "breed": "Laizhou Hong",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Rough Collie! Intelligent, loyal, devoted, gentle, protective, alert, athletic",
+  "synopsis": "A beautiful Laizhou Hong! Loyal, protective, confident, intelligent, alert",
   "stats": {
-    "name": "Rough Collie",
-    "temperament": "Intelligent, loyal, devoted, gentle, protective, alert, athletic",
-    "life_span": "12-14",
+    "name": "Laizhou Hong",
+    "temperament": "Loyal, protective, confident, intelligent, alert",
+    "life_span": "10-12",
     "weight": {
-      "imperial": "Male: 60-75; Female: 50-65",
-      "metric": "Male: 27-34; Female: 23-30"
+      "imperial": "Male: 77-99; Female: 66-88",
+      "metric": "Male: 35-45; Female: 30-40"
     },
     "height": {
-      "imperial": "Male: 24-26; Female: 22-24",
-      "metric": "Male: 61-66; Female: 56-61"
+      "imperial": "Male: 28-32; Female: 26-30",
+      "metric": "Male: 71-81; Female: 66-76"
     }
   }
 }
