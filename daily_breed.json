@@ -1,19 +1,19 @@
 {
-  "date": "2026-09-10",
-  "breed": "Laizhou Hong",
+  "date": "2026-09-11",
+  "breed": "Standard Schnauzer",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Laizhou Hong! Loyal, protective, confident, intelligent, alert",
+  "synopsis": "A beautiful Standard Schnauzer! Intelligent, alert, energetic, loyal, protective, devoted",
   "stats": {
-    "name": "Laizhou Hong",
-    "temperament": "Loyal, protective, confident, intelligent, alert",
-    "life_span": "10-12",
+    "name": "Standard Schnauzer",
+    "temperament": "Intelligent, alert, energetic, loyal, protective, devoted",
+    "life_span": null,
     "weight": {
-      "imperial": "Male: 77-99; Female: 66-88",
-      "metric": "Male: 35-45; Female: 30-40"
+      "imperial": "Male: 35-50; Female: 30-45",
+      "metric": "Male: 16-23; Female: 14-20"
     },
     "height": {
-      "imperial": "Male: 28-32; Female: 26-30",
-      "metric": "Male: 71-81; Female: 66-76"
+      "imperial": "Male: 18.5-19.5; Female: 17.5-18.5",
+      "metric": "Male: 47-50; Female: 44-47"
     }
   }
 }
