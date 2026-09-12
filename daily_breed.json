@@ -1,19 +1,19 @@
 {
-  "date": "2026-09-11",
-  "breed": "Standard Schnauzer",
+  "date": "2026-09-12",
+  "breed": "Akbash",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Standard Schnauzer! Intelligent, alert, energetic, loyal, protective, devoted",
+  "synopsis": "A beautiful Akbash! Independent, protective, calm, alert, loyal, intelligent",
   "stats": {
-    "name": "Standard Schnauzer",
-    "temperament": "Intelligent, alert, energetic, loyal, protective, devoted",
-    "life_span": null,
+    "name": "Akbash",
+    "temperament": "Independent, protective, calm, alert, loyal, intelligent",
+    "life_span": "10-12",
     "weight": {
-      "imperial": "Male: 35-50; Female: 30-45",
-      "metric": "Male: 16-23; Female: 14-20"
+      "imperial": "Male: 90-140; Female: 75-105",
+      "metric": "Male: 41-64; Female: 34-48"
     },
     "height": {
-      "imperial": "Male: 18.5-19.5; Female: 17.5-18.5",
-      "metric": "Male: 47-50; Female: 44-47"
+      "imperial": "Male: 28-34; Female: 27-32",
+      "metric": "Male: 71-86; Female: 69-81"
     }
   }
 }
