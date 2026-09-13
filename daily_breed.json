@@ -1,19 +1,19 @@
 {
-  "date": "2026-09-12",
-  "breed": "Akbash",
+  "date": "2026-09-13",
+  "breed": "Sarabi",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Akbash! Independent, protective, calm, alert, loyal, intelligent",
+  "synopsis": "A beautiful Sarabi! Protective, independent, calm, loyal, courageous",
   "stats": {
-    "name": "Akbash",
-    "temperament": "Independent, protective, calm, alert, loyal, intelligent",
+    "name": "Sarabi",
+    "temperament": "Protective, independent, calm, loyal, courageous",
     "life_span": "10-12",
     "weight": {
-      "imperial": "Male: 90-140; Female: 75-105",
-      "metric": "Male: 41-64; Female: 34-48"
+      "imperial": "Male: 119-200; Female: 99-170",
+      "metric": "Male: 54-90; Female: 45-77"
     },
     "height": {
-      "imperial": "Male: 28-34; Female: 27-32",
-      "metric": "Male: 71-86; Female: 69-81"
+      "imperial": "Male: 28-35; Female: 28-32",
+      "metric": "Male: 71-89; Female: 71-81"
     }
   }
 }
