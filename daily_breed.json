@@ -1,19 +1,19 @@
 {
-  "date": "2026-09-13",
-  "breed": "Sarabi",
+  "date": "2026-09-14",
+  "breed": "Trigg Hound",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Sarabi! Protective, independent, calm, loyal, courageous",
+  "synopsis": "A beautiful Trigg Hound! Energetic, independent, alert, intelligent, loyal, work-focused",
   "stats": {
-    "name": "Sarabi",
-    "temperament": "Protective, independent, calm, loyal, courageous",
-    "life_span": "10-12",
+    "name": "Trigg Hound",
+    "temperament": "Energetic, independent, alert, intelligent, loyal, work-focused",
+    "life_span": "10-13",
     "weight": {
-      "imperial": "Male: 119-200; Female: 99-170",
-      "metric": "Male: 54-90; Female: 45-77"
+      "imperial": "Male: 45-75; Female: 40-70",
+      "metric": "Male: 20-34; Female: 18-32"
     },
     "height": {
-      "imperial": "Male: 28-35; Female: 28-32",
-      "metric": "Male: 71-89; Female: 71-81"
+      "imperial": "Male: 22-25; Female: 21-24",
+      "metric": "Male: 56-64; Female: 53-61"
     }
   }
 }
