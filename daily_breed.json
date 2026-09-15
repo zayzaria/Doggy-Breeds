@@ -1,19 +1,19 @@
 {
-  "date": "2026-09-14",
-  "breed": "Trigg Hound",
+  "date": "2026-09-15",
+  "breed": "Český Fousek",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Trigg Hound! Energetic, independent, alert, intelligent, loyal, work-focused",
+  "synopsis": "A beautiful Český Fousek! Intelligent, loyal, energetic, devoted, eager to please, work-focused",
   "stats": {
-    "name": "Trigg Hound",
-    "temperament": "Energetic, independent, alert, intelligent, loyal, work-focused",
-    "life_span": "10-13",
+    "name": "Český fousek",
+    "temperament": "Intelligent, loyal, energetic, devoted, eager to please, work-focused",
+    "life_span": "12-15",
     "weight": {
-      "imperial": "Male: 45-75; Female: 40-70",
-      "metric": "Male: 20-34; Female: 18-32"
+      "imperial": "Male: 61-75; Female: 48-62",
+      "metric": "Male: 28-34; Female: 22-28"
     },
     "height": {
-      "imperial": "Male: 22-25; Female: 21-24",
-      "metric": "Male: 56-64; Female: 53-61"
+      "imperial": "Male: 23.5-26; Female: 22.5-24.5",
+      "metric": "Male: 60-66; Female: 57-62"
     }
   }
 }
