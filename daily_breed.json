@@ -1,19 +1,19 @@
 {
-  "date": "2026-09-15",
-  "breed": "Český Fousek",
+  "date": "2026-09-16",
+  "breed": "Barak Hound",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Český Fousek! Intelligent, loyal, energetic, devoted, eager to please, work-focused",
+  "synopsis": "A beautiful Barak Hound! Energetic, intelligent, alert, independent, courageous",
   "stats": {
-    "name": "Český fousek",
-    "temperament": "Intelligent, loyal, energetic, devoted, eager to please, work-focused",
-    "life_span": "12-15",
+    "name": "Barak Hound",
+    "temperament": "Energetic, intelligent, alert, independent, courageous",
+    "life_span": "12-14",
     "weight": {
-      "imperial": "Male: 61-75; Female: 48-62",
-      "metric": "Male: 28-34; Female: 22-28"
+      "imperial": "37-55",
+      "metric": "17-25"
     },
     "height": {
-      "imperial": "Male: 23.5-26; Female: 22.5-24.5",
-      "metric": "Male: 60-66; Female: 57-62"
+      "imperial": "Male: 20-22; Female: 19-21",
+      "metric": "Male: 51-56; Female: 48-53"
     }
   }
 }
