@@ -1,19 +1,19 @@
 {
-  "date": "2026-09-17",
-  "breed": "Pekingese",
+  "date": "2026-09-18",
+  "breed": "Poitevin",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Pekingese! Loyal, independent, confident, courageous, affectionate, alert",
+  "synopsis": "A beautiful Poitevin! Intelligent, courageous, independent, gentle, devoted",
   "stats": {
-    "name": "Pekingese",
-    "temperament": "Loyal, independent, confident, courageous, affectionate, alert",
-    "life_span": "12-14",
+    "name": "Poitevin",
+    "temperament": "Intelligent, courageous, independent, gentle, devoted",
+    "life_span": "10-13",
     "weight": {
-      "imperial": "7-14",
-      "metric": "3.2-6.4"
+      "imperial": "Male: 66-77; Female: 55-66",
+      "metric": "Male: 30-35; Female: 25-30"
     },
     "height": {
-      "imperial": "6-9",
-      "metric": "15-23"
+      "imperial": "Male: 24-28; Female: 23.5-27.5",
+      "metric": "Male: 62-72; Female: 60-70"
     }
   }
 }
