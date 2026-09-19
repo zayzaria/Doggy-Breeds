@@ -1,19 +1,19 @@
 {
-  "date": "2026-09-18",
-  "breed": "Poitevin",
+  "date": "2026-09-19",
+  "breed": "Tenterfield Terrier",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Poitevin! Intelligent, courageous, independent, gentle, devoted",
+  "synopsis": "A beautiful Tenterfield Terrier! Alert, intelligent, energetic, loyal, confident, affectionate, playful, friendly",
   "stats": {
-    "name": "Poitevin",
-    "temperament": "Intelligent, courageous, independent, gentle, devoted",
-    "life_span": "10-13",
+    "name": "Tenterfield Terrier",
+    "temperament": "Alert, intelligent, energetic, loyal, confident, affectionate, playful, friendly",
+    "life_span": "12-16",
     "weight": {
-      "imperial": "Male: 66-77; Female: 55-66",
-      "metric": "Male: 30-35; Female: 25-30"
+      "imperial": "6-10",
+      "metric": "2.7-4.5"
     },
     "height": {
-      "imperial": "Male: 24-28; Female: 23.5-27.5",
-      "metric": "Male: 62-72; Female: 60-70"
+      "imperial": "Male: 10-12; Female: 9.5-11.5",
+      "metric": "Male: 25-31; Female: 24-29"
     }
   }
 }
