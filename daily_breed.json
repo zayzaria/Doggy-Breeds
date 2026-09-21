@@ -1,19 +1,19 @@
 {
-  "date": "2026-09-20",
-  "breed": "Jämthund",
-  "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Jämthund! Courageous, intelligent, calm, independent, alert, loyal, devoted",
+  "date": "2026-09-21",
+  "breed": "Dachshund",
+  "image_url": "https://images.dog.ceo/breeds/dachshund/dachshund-1018409_640.jpg",
+  "synopsis": "A beautiful Dachshund! Courageous, intelligent, independent, alert, playful, devoted",
   "stats": {
-    "name": "Jämthund",
-    "temperament": "Courageous, intelligent, calm, independent, alert, loyal, devoted",
-    "life_span": "12-13",
+    "name": "Dachshund",
+    "temperament": "Courageous, intelligent, independent, alert, playful, devoted",
+    "life_span": "12-16",
     "weight": {
-      "imperial": "Male: 66-88; Female: 55-77",
-      "metric": "Male: 30-40; Female: 25-35"
+      "imperial": "16-32",
+      "metric": "7-14.5"
     },
     "height": {
-      "imperial": "Male: 22.5-25.5; Female: 20.5-23.5",
-      "metric": "Male: 57-65; Female: 52-60"
+      "imperial": "8-9",
+      "metric": "20-23"
     }
   }
 }
