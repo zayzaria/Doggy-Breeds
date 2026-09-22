@@ -1,19 +1,19 @@
 {
-  "date": "2026-09-21",
-  "breed": "Dachshund",
-  "image_url": "https://images.dog.ceo/breeds/dachshund/dachshund-1018409_640.jpg",
-  "synopsis": "A beautiful Dachshund! Courageous, intelligent, independent, alert, playful, devoted",
+  "date": "2026-09-22",
+  "breed": "Bordoodle",
+  "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
+  "synopsis": "A beautiful Bordoodle! Intelligent, energetic, loyal, playful, eager to please",
   "stats": {
-    "name": "Dachshund",
-    "temperament": "Courageous, intelligent, independent, alert, playful, devoted",
-    "life_span": "12-16",
+    "name": "Bordoodle",
+    "temperament": "Intelligent, energetic, loyal, playful, eager to please",
+    "life_span": "12-15",
     "weight": {
-      "imperial": "16-32",
-      "metric": "7-14.5"
+      "imperial": "Male: 35-65; Female: 30-55",
+      "metric": "Male: 16-29; Female: 14-25"
     },
     "height": {
-      "imperial": "8-9",
-      "metric": "20-23"
+      "imperial": "Male: 18-25; Female: 17-22",
+      "metric": "Male: 46-64; Female: 43-56"
     }
   }
 }
