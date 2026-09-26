@@ -1,19 +1,19 @@
 {
-  "date": "2026-09-25",
-  "breed": "Parson Russell Terrier",
+  "date": "2026-09-26",
+  "breed": "Chinese Crested",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Parson Russell Terrier! Alert, confident, energetic, intelligent, athletic, courageous",
+  "synopsis": "A beautiful Chinese Crested! Affectionate, alert, playful, lively, intelligent, gentle",
   "stats": {
-    "name": "Parson Russell Terrier",
-    "temperament": "Alert, confident, energetic, intelligent, athletic, courageous",
-    "life_span": "12-16",
+    "name": "Chinese Crested",
+    "temperament": "Affectionate, alert, playful, lively, intelligent, gentle",
+    "life_span": null,
     "weight": {
-      "imperial": "13-17",
-      "metric": "6-8"
+      "imperial": "8-12",
+      "metric": "3.6-5.4"
     },
     "height": {
-      "imperial": "Male: 13-15; Female: 13-14",
-      "metric": "Male: 33-38; Female: 33-36"
+      "imperial": "11-13",
+      "metric": "28-33"
     }
   }
 }
