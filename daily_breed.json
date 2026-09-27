@@ -1,19 +1,19 @@
 {
-  "date": "2026-09-26",
-  "breed": "Chinese Crested",
+  "date": "2026-09-27",
+  "breed": "East European Shepherd",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Chinese Crested! Affectionate, alert, playful, lively, intelligent, gentle",
+  "synopsis": "A beautiful East European Shepherd! Loyal, protective, confident, intelligent, work-focused",
   "stats": {
-    "name": "Chinese Crested",
-    "temperament": "Affectionate, alert, playful, lively, intelligent, gentle",
-    "life_span": null,
+    "name": "East European Shepherd",
+    "temperament": "Loyal, protective, confident, intelligent, work-focused",
+    "life_span": "10-14",
     "weight": {
-      "imperial": "8-12",
-      "metric": "3.6-5.4"
+      "imperial": "Male: 75-110; Female: 65-100",
+      "metric": "Male: 34-50; Female: 29-45"
     },
     "height": {
-      "imperial": "11-13",
-      "metric": "28-33"
+      "imperial": "Male: 26-30; Female: 24-28",
+      "metric": "Male: 66-76; Female: 61-71"
     }
   }
 }
