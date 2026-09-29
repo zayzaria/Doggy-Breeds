@@ -1,19 +1,19 @@
 {
-  "date": "2026-09-27",
-  "breed": "East European Shepherd",
+  "date": "2026-09-29",
+  "breed": "Ariège Pointer",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful East European Shepherd! Loyal, protective, confident, intelligent, work-focused",
+  "synopsis": "A beautiful Ariège Pointer! Intelligent, gentle, docile, loyal, work-focused, adaptable",
   "stats": {
-    "name": "East European Shepherd",
-    "temperament": "Loyal, protective, confident, intelligent, work-focused",
-    "life_span": "10-14",
+    "name": "Ariège Pointer",
+    "temperament": "Intelligent, gentle, docile, loyal, work-focused, adaptable",
+    "life_span": "12-14",
     "weight": {
-      "imperial": "Male: 75-110; Female: 65-100",
-      "metric": "Male: 34-50; Female: 29-45"
+      "imperial": "Male: 55-66; Female: 48-60",
+      "metric": "Male: 25-30; Female: 22-27"
     },
     "height": {
-      "imperial": "Male: 26-30; Female: 24-28",
-      "metric": "Male: 66-76; Female: 61-71"
+      "imperial": "Male: 23.5-26; Female: 22-25",
+      "metric": "Male: 60-67; Female: 56-63"
     }
   }
 }
