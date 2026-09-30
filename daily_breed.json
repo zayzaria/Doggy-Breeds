@@ -1,19 +1,19 @@
 {
-  "date": "2026-09-29",
-  "breed": "Ariège Pointer",
+  "date": "2026-09-30",
+  "breed": "Irish Red And White Setter",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Ariège Pointer! Intelligent, gentle, docile, loyal, work-focused, adaptable",
+  "synopsis": "A beautiful Irish Red And White Setter! Friendly, energetic, intelligent, courageous, devoted, gentle, eager to please",
   "stats": {
-    "name": "Ariège Pointer",
-    "temperament": "Intelligent, gentle, docile, loyal, work-focused, adaptable",
-    "life_span": "12-14",
+    "name": "Irish Red and White Setter",
+    "temperament": "Friendly, energetic, intelligent, courageous, devoted, gentle, eager to please",
+    "life_span": "11-15",
     "weight": {
-      "imperial": "Male: 55-66; Female: 48-60",
-      "metric": "Male: 25-30; Female: 22-27"
+      "imperial": "Male: 50-70; Female: 45-60",
+      "metric": "Male: 23-32; Female: 20-27"
     },
     "height": {
-      "imperial": "Male: 23.5-26; Female: 22-25",
-      "metric": "Male: 60-67; Female: 56-63"
+      "imperial": "Male: 24-26; Female: 22.5-24",
+      "metric": "Male: 61-66; Female: 57-61"
     }
   }
 }
