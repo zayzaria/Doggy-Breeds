@@ -1,19 +1,19 @@
 {
-  "date": "2026-09-30",
-  "breed": "Irish Red And White Setter",
+  "date": "2026-10-01",
+  "breed": "Old Danish Pointer",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Irish Red And White Setter! Friendly, energetic, intelligent, courageous, devoted, gentle, eager to please",
+  "synopsis": "A beautiful Old Danish Pointer! Calm, gentle, intelligent, loyal, confident, courageous",
   "stats": {
-    "name": "Irish Red and White Setter",
-    "temperament": "Friendly, energetic, intelligent, courageous, devoted, gentle, eager to please",
-    "life_span": "11-15",
+    "name": "Old Danish Pointer",
+    "temperament": "Calm, gentle, intelligent, loyal, confident, courageous",
+    "life_span": "12-14",
     "weight": {
-      "imperial": "Male: 50-70; Female: 45-60",
-      "metric": "Male: 23-32; Female: 20-27"
+      "imperial": "Male: 66-80; Female: 57-77",
+      "metric": "Male: 30-36; Female: 26-35"
     },
     "height": {
-      "imperial": "Male: 24-26; Female: 22.5-24",
-      "metric": "Male: 61-66; Female: 57-61"
+      "imperial": "Male: 22-24.5; Female: 21-23.5",
+      "metric": "Male: 56-62; Female: 54-60"
     }
   }
 }
