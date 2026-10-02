@@ -1,19 +1,19 @@
 {
-  "date": "2026-10-01",
-  "breed": "Old Danish Pointer",
+  "date": "2026-10-02",
+  "breed": "Cão De Gado Transmontano",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Old Danish Pointer! Calm, gentle, intelligent, loyal, confident, courageous",
+  "synopsis": "A beautiful Cão De Gado Transmontano! Protective, independent, calm, loyal, confident, courageous",
   "stats": {
-    "name": "Old Danish Pointer",
-    "temperament": "Calm, gentle, intelligent, loyal, confident, courageous",
-    "life_span": "12-14",
+    "name": "Cão de Gado Transmontano",
+    "temperament": "Protective, independent, calm, loyal, confident, courageous",
+    "life_span": "10-12",
     "weight": {
-      "imperial": "Male: 66-80; Female: 57-77",
-      "metric": "Male: 30-36; Female: 26-35"
+      "imperial": "Male: 110-165; Female: 88-132",
+      "metric": "Male: 50-75; Female: 40-60"
     },
     "height": {
-      "imperial": "Male: 22-24.5; Female: 21-23.5",
-      "metric": "Male: 56-62; Female: 54-60"
+      "imperial": "Male: 29.5-33; Female: 26.8-30.7",
+      "metric": "Male: 75-84; Female: 68-78"
     }
   }
 }
