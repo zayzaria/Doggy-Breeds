@@ -1,19 +1,19 @@
 {
-  "date": "2026-10-02",
-  "breed": "Cão De Gado Transmontano",
+  "date": "2026-10-03",
+  "breed": "Pražský Krysařík",
   "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_1234.jpg",
-  "synopsis": "A beautiful Cão De Gado Transmontano! Protective, independent, calm, loyal, confident, courageous",
+  "synopsis": "A beautiful Pražský Krysařík! Alert, intelligent, loyal, affectionate, lively, playful, confident",
   "stats": {
-    "name": "Cão de Gado Transmontano",
-    "temperament": "Protective, independent, calm, loyal, confident, courageous",
-    "life_span": "10-12",
+    "name": "Pražský Krysařík",
+    "temperament": "Alert, intelligent, loyal, affectionate, lively, playful, confident",
+    "life_span": "12-14",
     "weight": {
-      "imperial": "Male: 110-165; Female: 88-132",
-      "metric": "Male: 50-75; Female: 40-60"
+      "imperial": "2-6",
+      "metric": "1-3"
     },
     "height": {
-      "imperial": "Male: 29.5-33; Female: 26.8-30.7",
-      "metric": "Male: 75-84; Female: 68-78"
+      "imperial": "Male: 8-9.5; Female: 8-9",
+      "metric": "Male: 20-24; Female: 20-23"
     }
   }
 }
